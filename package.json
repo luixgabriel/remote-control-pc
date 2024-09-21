@@ -1,0 +1,16 @@
+{
+  "name": "pupetter",
+  "version": "1.0.0",
+  "main": "ytb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pupetter": "file:",
+    "puppeteer": "^23.4.0",
+    "puppeteer-core": "^23.4.0"
+  }
+}
